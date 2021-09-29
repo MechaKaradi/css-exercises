@@ -1,0 +1,12 @@
+/* Style.css  */
+
+div p{
+    background-color: yellow;
+    color: tomato;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+}
